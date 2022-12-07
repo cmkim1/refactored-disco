@@ -13,12 +13,14 @@
 
 ### bar plot
 - Family level profile was used for drawing bar plot.
-- Only 20 abundant genera (>0.5% total abundance) were noted.
-![sheet3_bar](https://user-images.githubusercontent.com/119988478/206120671-ece817a4-f73f-4f1a-86bc-552a8a98565e.png)
+- Only 12 abundant genera were noted.
+![sheet3_bar_final](https://user-images.githubusercontent.com/119988478/206216447-29cb4884-e50b-443a-80d3-de772df2a186.png)
+
 
 ### nmds analysis
 - nmds analysis was performed with OTU level profile
-![sheet3_nmds](https://user-images.githubusercontent.com/119988478/206120715-4bf97d16-bd03-4738-af6b-424dcfca1c2c.png)
+![sheet3_nmds_final](https://user-images.githubusercontent.com/119988478/206216479-25628232-eb33-4491-bae6-0b52fc0d1e50.png)
+
 
 ### diversity box plot
 - Measured indexes: Shannon, Simpson
